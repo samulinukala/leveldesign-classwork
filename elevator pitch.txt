@@ -1,0 +1,2 @@
+elevator pitch
+you are a fancy new robot being tested for combat efficency in a facility for futuristic robot development that looks like a amusement park ghost house. you are weilding a dart firing handgun. you movethrough the level in either a cart on rails around the level and the player can change what direction the cart is going around or you can do more intensive light gun section. 
